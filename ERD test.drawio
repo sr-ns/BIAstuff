@@ -223,10 +223,10 @@
             <mxRectangle width="240" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xr8dFL30icj96ivj3Pz1-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Xr8dFL30icj96ivj3Pz1-21" target="Xr8dFL30icj96ivj3Pz1-56" edge="1">
+        <mxCell id="Xr8dFL30icj96ivj3Pz1-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERoneToMany;endFill=0;" parent="1" source="Xr8dFL30icj96ivj3Pz1-21" target="Xr8dFL30icj96ivj3Pz1-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xr8dFL30icj96ivj3Pz1-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Xr8dFL30icj96ivj3Pz1-40" target="Xr8dFL30icj96ivj3Pz1-59" edge="1">
+        <mxCell id="Xr8dFL30icj96ivj3Pz1-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERoneToMany;endFill=0;" parent="1" source="Xr8dFL30icj96ivj3Pz1-40" target="Xr8dFL30icj96ivj3Pz1-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
